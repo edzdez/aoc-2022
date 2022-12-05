@@ -1,5 +1,4 @@
-import Debug.Trace
-
+file :: String
 file = "day04.in"
 
 type Interval = (Int, Int)
