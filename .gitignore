@@ -6,3 +6,4 @@ day*.o
 day*.in
 
 .*
+-.gitignore
