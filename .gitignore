@@ -1,9 +1,7 @@
 day[0-1][0-9]
 !day*/
-day*.cmi
-day*.cmx
-day*.o
-day*.in
-
-.*
--.gitignore
+*.cmi
+*.cmx
+*.o
+*.in
+*.class
