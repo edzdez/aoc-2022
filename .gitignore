@@ -6,5 +6,5 @@ day[0-1][0-9]
 *.in
 *.class
 *.iml
-.idea/
+.*/
 out/
